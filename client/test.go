@@ -10,7 +10,7 @@ import (
 	hook "github.com/robotn/gohook"
 )
 
-func main() {
+func test() {
 	a := app.New()
 	w := a.NewWindow("SysTray")
 
@@ -86,7 +86,7 @@ func event() {
 	}
 }
 
-func test() {
+func test1() {
 	robotgo.TypeStr("Hello World")
 	robotgo.TypeStr("だんしゃり", 0, 1)
 	// robotgo.TypeStr("テストする")
