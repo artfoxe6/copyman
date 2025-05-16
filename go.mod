@@ -7,6 +7,7 @@ toolchain go1.23.9
 require (
 	fyne.io/fyne/v2 v2.6.1
 	github.com/go-vgo/robotgo v0.110.7
+	github.com/mattn/go-sqlite3 v1.14.28
 	github.com/robotn/gohook v0.42.0
 )
 
