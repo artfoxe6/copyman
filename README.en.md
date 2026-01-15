@@ -4,19 +4,6 @@ CopyManager Pro is a clipboard manager focused on local-first privacy. It provid
 
 Website: https://cpman.20480101.xyz
 
-Other languages:
-- [English](README.en.md)
-- [Deutsch](README.de.md)
-- [Español](README.es.md)
-- [Français](README.fr.md)
-- [Italiano](README.it.md)
-- [日本語](README.ja.md)
-- [한국어](README.ko.md)
-- [Português (Brasil)](README.pt_BR.md)
-- [Русский](README.ru.md)
-- [简体中文](README.zh_CN.md)
-- [繁體中文](README.zh_TW.md)
-
 ## Screenshots
 
 ![CopyManager Main](images/copymanager_main.jpg)
