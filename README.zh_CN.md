@@ -2,7 +2,7 @@
 
 CopyManager Pro 是一款剪贴板管理器（Clipboard Manager），关注本地优先与隐私保护，提供剪贴板历史管理与快速检索能力，支持 macOS、Windows 与 Linux。
 
-官网：https://cpman.20480101.xyz
+官网：https://www.20480101.xyz
 
 其他语言：
 - [English](README.en.md)

@@ -2,7 +2,7 @@
 
 CopyManager Pro는 로컬 우선 개인정보 보호에 초점을 맞춘 클립보드 관리자입니다. macOS, Windows, Linux에서 클립보드 기록 관리와 빠른 검색을 제공합니다.
 
-웹사이트: https://cpman.20480101.xyz
+웹사이트: https://www.20480101.xyz
 
 ## 스크린샷
 

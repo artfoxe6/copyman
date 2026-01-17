@@ -2,7 +2,7 @@
 
 CopyManager Pro はローカルファーストのプライバシーを重視したクリップボード管理ツールです。macOS、Windows、Linux で履歴管理と高速検索を提供します。
 
-公式サイト: https://cpman.20480101.xyz
+公式サイト: https://www.20480101.xyz
 
 ## スクリーンショット
 

@@ -2,7 +2,7 @@
 
 CopyManager Pro is a clipboard manager focused on local-first privacy. It provides clipboard history management and fast search across macOS, Windows, and Linux.
 
-Website: https://cpman.20480101.xyz
+Website: https://www.20480101.xyz
 
 ## Screenshots
 

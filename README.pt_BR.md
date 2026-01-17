@@ -2,7 +2,7 @@
 
 CopyManager Pro é um gerenciador de área de transferência com foco em privacidade local-first. Oferece histórico da área de transferência e busca rápida em macOS, Windows e Linux.
 
-Site: https://cpman.20480101.xyz
+Site: https://www.20480101.xyz
 
 ## Capturas de tela
 

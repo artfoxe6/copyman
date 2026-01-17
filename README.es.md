@@ -2,7 +2,7 @@
 
 CopyManager Pro es un gestor de portapapeles con enfoque local-first y privacidad. Ofrece historial del portapapeles y búsqueda rápida en macOS, Windows y Linux.
 
-Sitio web: https://cpman.20480101.xyz
+Sitio web: https://www.20480101.xyz
 
 ## Capturas de pantalla
 

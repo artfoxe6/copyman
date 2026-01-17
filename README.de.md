@@ -2,7 +2,7 @@
 
 CopyManager Pro ist ein Zwischenablage-Manager mit Fokus auf lokale Datenhaltung und Datenschutz. Er bietet Verlaufverwaltung und schnelle Suche unter macOS, Windows und Linux.
 
-Website: https://cpman.20480101.xyz
+Website: https://www.20480101.xyz
 
 ## Screenshots
 

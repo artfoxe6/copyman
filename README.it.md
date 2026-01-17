@@ -2,7 +2,7 @@
 
 CopyManager Pro è un gestore di appunti con attenzione alla privacy local-first. Offre cronologia degli appunti e ricerca rapida su macOS, Windows e Linux.
 
-Sito web: https://cpman.20480101.xyz
+Sito web: https://www.20480101.xyz
 
 ## Screenshot
 

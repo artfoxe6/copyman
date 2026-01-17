@@ -2,7 +2,7 @@
 
 CopyManager Pro est un gestionnaire de presse-papiers axé sur la confidentialité local-first. Il offre un historique du presse-papiers et une recherche rapide sur macOS, Windows et Linux.
 
-Site web : https://cpman.20480101.xyz
+Site web : https://www.20480101.xyz
 
 ## Captures d'écran
 
